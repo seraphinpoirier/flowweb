@@ -1,0 +1,91 @@
+/*HEADER*/
+.hautdepage{
+    display: flex;
+    padding-top: 1.5%;
+    background-color: #FFFFFF;
+}
+
+.hdp {
+    text-align: center;
+    width: 33%;
+    font-size: 25px;
+    font-family: "Homemade Apple", cursive;
+}
+
+.hdp a{
+    text-decoration: none;
+    color: #063084;
+}
+
+.hdp a:hover{
+    text-decoration: none;
+    color: #7196B0;
+}
+
+.hdp #2{
+    font-size: larger;
+}
+
+.hdp img{
+    height: 75px;
+}
+
+.hpd#1{
+    font-size: 50px;
+}
+
+/*FOOTER*/
+.bas_de_page{
+    background: linear-gradient(white, #B7D2E6);
+}
+
+.bas_de_page{
+    font-family: "Homemade Apple", cursive;
+    display: flex;
+    padding: 2%;
+}
+
+.bdp{
+    text-align: center;
+    width: 33%;
+}
+
+.bdp a{
+    color: grey;
+    text-decoration: none;
+}
+
+.bdp a:hover{
+    color: lightgray;
+    text-decoration: none;
+}
+
+/*PAGE CONTACT*/
+.texte_contact p{
+    text-align: center;
+}
+
+#contact{
+    text-align: center;
+    font-family: "Homemade Apple", cursive;
+}
+
+.reseaux{
+    text-align: center;
+    font-family: "Homemade Apple", cursive;
+}
+
+form{
+    text-align: center;
+}
+
+form label{
+    font-family: "Homemade Apple", cursive;
+}
+
+/*BODY*/
+body{
+    font-family: 'Raleway', sans-serif;
+    color:#063084;
+}
+
