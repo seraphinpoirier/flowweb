@@ -1,0 +1,149 @@
+/*HEADER*/
+.hautdepage{
+    display: flex;
+    padding-top: 1.5%;
+    background-color: #FFFFFF;
+}
+
+.hdp {
+    text-align: center;
+    width: 33%;
+    font-size: 25px;
+    font-family: "Homemade Apple", cursive;
+}
+
+.hdp a{
+    text-decoration: none;
+    color: #063084;
+}
+
+.hdp a:hover{
+    text-decoration: none;
+    color: #7196B0;
+}
+
+
+/*BODY*/
+.body{
+    font-family:'Inclusive Sans', sans-serif;
+    font-family: 'Red Rose', serif;
+    background-image: url('../images/background.png');
+}
+
+h1{
+    font-family: "Homemade Apple", cursive;
+    text-align: center;    
+}
+
+h3{
+    text-align: center;    
+    padding-bottom: 2%;   
+}
+
+h4 a{
+    color: white;
+    text-decoration: none;
+}
+
+h5{
+    font-family: "Homemade Apple", cursive;
+}
+
+.illustration{
+    background-size: cover;
+    padding: 15%;
+}
+
+.main_infos{
+    padding-top: 1%;
+}
+
+/*GESTION BOUTONS*/
+.bouton{
+    display: block;
+    margin: auto;
+}
+
+#screening{
+    float: left;
+    width: 40%;
+}
+
+#dl_technique{
+    margin-left: 40%;
+    width: 40%;
+}
+
+.RScre{
+    background-color: #063084;
+    padding: 1.5%;
+    border-style: none;
+    border-radius: 2px;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0, 0.2), 0 6px 20px 0 rgba(0,0,0, 0.19);
+}
+
+.RScre a {
+    text-decoration: none;
+    color: white;
+}
+
+.selections_prix{
+    display: block;
+    margin: auto;
+}
+
+#prix{
+    float: left;
+    width: 40%
+}
+
+#selection{
+    margin-left: 40%;
+    width: 40%;
+}
+
+/*TRAILER*/
+.video{
+    display: block;
+    margin: auto;
+}
+
+.trailer h5{
+    text-align: center;
+    font-family: "Homemade Apple", cursive;
+}
+
+/*BLOCS*/
+.block{
+    display: flex;
+}
+
+.affiche {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+.affiche img{
+    width: 50%;
+}
+
+.synopsis {
+    width: 50%
+}
+
+.synopsis p{
+    width: 75%;
+}
+
+.team{
+    width:26%;
+    padding-top: 5%;
+}
+
+.buffer{
+    width: 10%;
+}
+
+
